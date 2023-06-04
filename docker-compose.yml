@@ -8,8 +8,8 @@ services:
     volumes:
       - mysql-data:/var/lib/mysql
     environment:
-      - MYSQL_ROOT_PASSWORD: tornet
-      - MYSQL_DATBASE: code-tornet
+      - MYSQL_ROOT_PASSWORD: a1231234!
+      - MYSQL_DATBASE: tornet
 
 volumes:
 # storage area 정의
